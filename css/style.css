@@ -5813,16 +5813,16 @@ a {
 p {
   margin-bottom: 1.5em; }
 
+ul {
+  margin-bottom: 25px; }
+
 ::-webkit-selection {
-  color: #222;
   background: #ffa693; }
 
 ::-moz-selection {
-  color: #222;
   background: #ffa693; }
 
 ::selection {
-  color: #222;
   background: #ffa693; }
 
 #fh5co-header {
@@ -5849,6 +5849,10 @@ p {
       color: #000; }
   .navbar .nav-links {
     margin: 45px 0 45px 0; }
+
+.copyright {
+  margin-top: 6em;
+  margin-bottom: 6em; }
 
 @media screen and (max-width: 991px) {
   .navbar div a {
@@ -5918,6 +5922,9 @@ p {
 
 .paddedstuff-top {
   padding-top: 6em; }
+
+.paddedstuff-footer {
+  margin-top: 6em; }
 
 .fh5co-section-heading {
   font-family: "Montserrat", arial, sans-serif;
@@ -6011,7 +6018,7 @@ p {
     right: 0;
     bottom: 0;
     top: 0;
-    background: rgba(68, 218, 130, 0.9);
+    background: rgba(255, 45, 1, 0.33);
     z-index: 8;
     opacity: 0; }
   .fh5co-project > a .fh5co-overlay-text {
