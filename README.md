@@ -5,11 +5,7 @@ https://sinopingenierie.fr
 
 ## CREDITS
 
-Slant - Responsive Free HTML5 template - 
-Designed & developed by freehtml5.co -
-http://freehtml5.co/
-http://twitter.com/fh5co
-http://facebook.com/fh5co
+Verge Website Template [http://www.free-css.com/](http://www.free-css.com/free-css-templates/page211/verge)
 
 Bootstrap
 http://getbootstrap.com/
@@ -36,7 +32,7 @@ Google Fonts
 https://www.google.com/fonts/
 
 Icomoon Entypo
-https://icomoon.io/app/
+https://icomoon.io/app/,
 http://www.entypo.com/
 
 Respond JS
