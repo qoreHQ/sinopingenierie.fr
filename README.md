@@ -1,15 +1,15 @@
+![qore logo](https://qore.no/res/logo-text-100.png)
 
-TITLE: 
-Slant - Responsive Free HTML5 template
+# Webpage for Sinop Ingenierie
+https://sinopingenierie.fr
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+## CREDITS
+
+Slant - Responsive Free HTML5 template - 
+Designed & developed by freehtml5.co -
 http://freehtml5.co/
 http://twitter.com/fh5co
 http://facebook.com/fh5co
-
-
-CREDITS:
 
 Bootstrap
 http://getbootstrap.com/
@@ -53,5 +53,3 @@ http://daneden.me/animate
 
 jQuery Waypoint
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-
