@@ -3,7 +3,7 @@
 # Webpage for Sinop Ingenierie
 https://sinopingenierie.fr
 
-## CREDITS
+## Credits
 
 Verge Website Template [http://www.free-css.com/](http://www.free-css.com/free-css-templates/page211/verge)
 
