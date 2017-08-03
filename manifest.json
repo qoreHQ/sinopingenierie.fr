@@ -1,0 +1,9 @@
+{
+  "name": "Sinop Ingenierie",
+  "short_name": "SINOP",
+  "start_url": ".",
+  "display": "browser",
+  "background_color": "#fff",
+  "description": "SINOP est une société spécialisée dans l’assistance à la maîtrise d’ouvrage pour les projets de construction.",
+  "theme_color": "ff2d01"
+}
