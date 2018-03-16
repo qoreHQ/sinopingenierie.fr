@@ -362,6 +362,10 @@
 		}
 	};
 
+	var setFooterYear = function () {
+		$('.date-year').html((new Date()).getFullYear());
+	}
+
 
 
 	$(function(){
@@ -384,6 +388,8 @@
 		servicesWayPoint();
 		contactWayPoint();
 		footerWayPoint();
+		setFooterYear();
+
 
 	});
 
